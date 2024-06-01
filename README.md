@@ -26,11 +26,11 @@ Jupyter Notebook
 # Data
 I will be using data from the Olympics, which was originally on [Kaggle]
 But summerised by Vikas Paruchuri. You can find the data preparation code in this [link].
-
-team.csv - main data set used for this
+[team.csv] - main data set used for this
 
 
 
 
 [Kaggle]: https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results
 [link]: https://github.com/dataquestio/project-walkthroughs/blob/master/beginner_ml/data_prep.ipynb
+[team.csv]:https://github.com/ZiniaJoti/olympic_medal_predictions/blob/main/teams.csv
